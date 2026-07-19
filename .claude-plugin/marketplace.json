@@ -1,0 +1,11 @@
+{
+  "name": "fig2code",
+  "owner": { "name": "heojeongho" },
+  "plugins": [
+    {
+      "name": "fig2code",
+      "source": "./plugins/fig2code",
+      "description": "Figma to pixel-perfect responsive HTML/CSS with an automated screenshot-diff verification loop (ralph loop)."
+    }
+  ]
+}

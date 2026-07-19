@@ -1,0 +1,6 @@
+{
+  "name": "fig2code",
+  "version": "1.0.0",
+  "description": "Figma → pixel-perfect responsive HTML/CSS publishing skill with a one-command capture/diff verification loop (ralph loop), breakpoint-based responsive layout, and interaction patterns.",
+  "author": { "name": "heojeongho" }
+}

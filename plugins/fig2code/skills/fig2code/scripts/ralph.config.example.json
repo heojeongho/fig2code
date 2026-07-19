@@ -1,0 +1,38 @@
+{
+  "url": "http://localhost:8901/index.html",
+  "outDir": "shots/ralph",
+  "structuralMax": 1.5,
+  "targets": [
+    {
+      "name": "pc",
+      "width": 1920,
+      "ref": "shots/figma/pc_full.png",
+      "cropTop": 0,
+      "beforeCapture": "document.querySelector('.hd-dd')?.classList.add('open')"
+    },
+    {
+      "name": "mobile",
+      "width": 393,
+      "ref": "shots/figma/mobile_full.png",
+      "cropTop": 58
+    }
+  ],
+  "sweepWidths": [
+    320,
+    360,
+    375,
+    393,
+    414,
+    430,
+    540,
+    768,
+    834,
+    1024,
+    1180,
+    1280,
+    1440,
+    1920,
+    2560
+  ],
+  "sweepBreakpoint": 1024
+}
